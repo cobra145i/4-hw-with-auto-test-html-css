@@ -262,6 +262,7 @@ footer {
 
     .main-title {
         /* 📍 Размер шрифта */
+            font-size: 36px;
     }
 
     .about-section .wrapper,
